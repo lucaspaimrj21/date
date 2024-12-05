@@ -24,7 +24,7 @@ public class ExampleDate04 {
 		
 		
 		System.out.println("Past Week Local Date: " + pastWeekLocalDate);
-		System.out.println("Next Week Local Date: " + nextMonthLocalDateTime);
+		System.out.println("Next Week Local Date: " + nextMonthLocalDate);
 		
 		System.out.println("Past Week Local Date: " + pastWeekLocalDateTime);
 		System.out.println("Next Week Local Date: " + nextMonthLocalDateTime);
